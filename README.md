@@ -1,11 +1,7 @@
 # Proyecto_Grietas
 Detección de Grietas e Inclinación de Elementos Estructurales para la Evaluación de Riesgo en Edificaciones
 
-Hola, este es el repositorio de nuestro grupo para el proyecto de la asignatura **Algoritmos y Programación (2026-2)** en la Universidad Industrial de Santander (Sede Barrancabermeja).
-
-Somos una pareja de estudiantes de primer semestre de Ingeniería en Inteligencia Artificial. La verdad es que apenas estamos empezando a programar y a entender cómo funcionan la visión por computador y el procesamiento de datos, así que este proyecto es nuestro primer experimento construyendo algo completo de principio a fin.
-
----
+Hola, este es el repositorio de nuestro grupo para el proyecto de la materia Algoritmos y Programación en la UIS Barrancabermeja.
 
 ## 1. Integrantes y Plan de Trabajo
 
