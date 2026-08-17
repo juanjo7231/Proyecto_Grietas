@@ -58,7 +58,7 @@ Como apenas estamos en primer semestre y estamos aprendiendo la lógica, para es
 
 ## 5. Avance de la Entrega 1
 
-En el cuaderno de Jupyter / Colab que dejamos en el repositorio ya tenemos listo:
+En Google Colab que dejamos en el repositorio ya tenemos listo:
 * La descompresión y organización de las carpetas `Positive` y `Negative`.
 * El conteo automático de archivos para verificar que las 40.000 fotos estén completas.
 * La rutina de comprobación de integridad para descartar imágenes corruptas.
