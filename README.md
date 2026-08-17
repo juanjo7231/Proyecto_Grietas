@@ -67,7 +67,7 @@ En Google Colab que dejamos en el repositorio ya tenemos listo:
 
 ---
 
-## 6. ¿Cómo ejecutar el cuaderno?
+## 6. ¿Cómo ejecutar el proyecto?
 
 1. Subir o clonar el cuaderno `.ipynb` que está en la carpeta `/notebooks` a Google Colab.
 2. Asegurarse de tener la carpeta del dataset descargada en la ruta `/content/dataset` (o descomprimir el archivo descargado de Mendeley allí).
