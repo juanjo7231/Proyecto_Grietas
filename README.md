@@ -1,4 +1,4 @@
-# Proyecto_Grietas Andres Camilo Gamarra Jaimes
+# Proyecto_Grietas
 Detección de Grietas e Inclinación de Elementos Estructurales para la Evaluación de Riesgo en Edificaciones
 
 Hola, este es el repositorio de nuestro grupo para el proyecto de la asignatura **Algoritmos y Programación (2026-2)** en la Universidad Industrial de Santander (Sede Barrancabermeja).
