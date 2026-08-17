@@ -8,9 +8,9 @@ Hola, este es el repositorio de nuestro grupo para el proyecto de la materia Alg
 Como somos un equipo de solo dos personas, repartimos el trabajo inicial de forma sencilla para ir aprendiendo ambos sin enredarnos:
 
 * **Juan Jose Vega Navas**
-  * *Rol:* Carga y exploración del dataset en Google Colab, conteo de imágenes por clase y verificación de integridad de los archivos.
+  * Rol: Carga y exploración del dataset en Google Colab, conteo de imágenes por clase y verificación de integridad de los archivos.
 * **Andres Camilo Gamarra Jaimes** 
-  * *Rol:* Redacción del contexto y problemática, apoyo en la búsqueda del estado del arte y primeras pruebas con el módulo de inclinación usando OpenCV.
+  * Rol: Redacción del contexto y problemática, apoyo en la búsqueda del estado del arte y primeras pruebas con el módulo de inclinación usando OpenCV.
 
 *(Conforme avancemos en las siguientes entregas iremos ajustando o alternando las tareas).*
 
