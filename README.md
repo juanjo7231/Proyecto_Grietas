@@ -50,7 +50,7 @@ Con el código que armamos en Python revisamos que todas las imágenes se pudier
 
 Estuvimos leyendo un poco sobre cómo se suele abordar este problema normalmente:
 * **Métodos tradicionales:** Antes se utilizaban técnicas de procesamiento digital de imágenes, como filtros de bordes (por ejemplo Canny) para buscar líneas oscuras en el concreto. El problema de esto es que cualquier sombra, mugre o textura rugosa puede confundir al algoritmo.
-* **Redes Neuronales (IA):** Hoy en día se prefieren las redes convolucionales (CNN) porque aprenden solas los patrones visuales reales de una grieta. Para aplicaciones en computadores o celulares se suelen usar arquitecturas ligeras como *MobileNetV2*.
+* **Redes Neuronales:** Hoy en día se prefieren las redes convolucionale porque aprenden solas los patrones visuales reales de una grieta. Para aplicaciones en computadores o celulares se suelen usar arquitecturas ligeras como *MobileNetV2*.
 
 Como apenas estamos en primer semestre y estamos aprendiendo la lógica, para esta entrega no usamos un modelo complejo todavía, sino una prueba simple para comprobar que la carga de datos funciona bien de principio a fin.
 
