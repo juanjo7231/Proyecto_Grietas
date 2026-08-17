@@ -58,17 +58,16 @@ Como apenas estamos en primer semestre y estamos aprendiendo la lógica, para es
 
 ## 5. Avance de la Entrega 1
 
-En Google Colab que dejamos en el repositorio ya tenemos listo:
-* La descompresión y organización de las carpetas `Positive` y `Negative`.
-* El conteo automático de archivos para verificar que las 40.000 fotos estén completas.
-* La rutina de comprobación de integridad para descartar imágenes corruptas.
-* Una gráfica en `matplotlib` que muestra una muestra de fotos de cada clase.
-* Una idea inicial de script con `OpenCV` para empezar a detectar líneas y bordes para el módulo de inclinación.
+En el cuaderno de Google Colab dejamos montado un prototipo funcional de extremo a extremo[cite: 1, 2]:
+- Carga, descompresión y verificación de las 40.000 imágenes del dataset[cite: 1, 2].
+- Entrenamiento de una red neuronal convolucional sencilla (línea base) para detectar grietas[cite: 1, 2].
+- Cálculo del ángulo de inclinación mediante visión por computador (OpenCV y detección de líneas)[cite: 1, 2].
+- Integración de resultados para entregar un diagnóstico inicial de riesgo (Bajo, Medio o Alto)[cite: 2].
 
 ---
 
 ## 6. ¿Cómo ejecutar el proyecto?
 
-1. Subir o clonar el cuaderno `.ipynb` que está en la carpeta `/notebooks` a Google Colab.
-2. Asegurarse de tener la carpeta del dataset descargada en la ruta `/content/dataset` (o descomprimir el archivo descargado de Mendeley allí).
-3. Ejecutar las celdas en orden. El código mostrará el número de imágenes encontradas, confirmará si hay errores y mostrará las imágenes de muestra en pantalla.
+1. Abrir o clonar el cuaderno `.ipynb` en Google Colab[cite: 1, 2].
+2. Subir una imagen de prueba llamada `mi_foto.jpg` en la raíz del entorno (`/content/mi_foto.jpg`)[cite: 1].
+3. Ejecutar las celdas en orden de arriba a abajo. El script descargará el dataset, entrenará el modelo base, analizará la inclinación y mostrará la predicción con su nivel de riesgo[cite: 1, 2].
