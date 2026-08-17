@@ -22,7 +22,7 @@ En lugares como Barrancabermeja es muy común encontrar casas o edificaciones qu
 
 La idea de este proyecto es construir un prototipo básico que nos ayude a evaluar este tipo de situaciones:
 1. **Clasificación de grietas:** Un modelo que nos diga si en una foto hay o no una grieta (`Positive` o `Negative`).
-2. **Medición de inclinación:** Un script que use visión por computador (o sensores del celular) para medir qué tan desviada está una columna o pared respecto a la vertical.
+2. **Medición de inclinación:** Un script que use visión por computador o  el propio sensor del celular para medir qué tan desviada está una columna o pared respecto a la vertical.
 3. **Evaluación de riesgo:** Juntar estas dos cosas para dar una orientación inicial sobre el nivel de riesgo (bajo, medio o alto).
 
 Para esta **Entrega 1**, la meta principal es dejar lista la base: verificar que las fotos carguen bien, explorar los datos y poner a correr un código directo y sin complicaciones.
