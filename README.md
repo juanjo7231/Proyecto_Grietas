@@ -32,7 +32,7 @@ Para esta **Entrega 1**, la meta principal es dejar lista la base: verificar que
 ## 3. El Dataset (Concrete Crack Images)
 
 Para la parte de las grietas estamos usando el dataset de acceso libre **Concrete Crack Images** (creado por Özgenel), el cual obtuvimos directamente desde Mendeley Data:
-* **Fuente de los datos:** [Mendeley Data - Concrete Crack Images](https://data.mendeley.com/datasets/5y9wdsg2zt/2)
+* **Fuente de los datos:** https://data.mendeley.com/datasets/5y9wdsg2zt/2
 
 **Características del conjunto de datos:**
 * **Total de imágenes:** 40.000 fotografías en total.
